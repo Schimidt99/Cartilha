@@ -1,5 +1,5 @@
 # Cartilha
-Cartilha - Gestão de Resíduos Orgânicos em Estancias de Ecoturismo e Turismo Rural
+Cartilha - Gestão de Resíduos Orgânicos em Estâncias de Ecoturismo e Turismo Rural
 
 Produto tecnico oriundo do Mestrado Profissional em
 Tecnologia Gestão e Sustentábilidade - IFG Câmpus Goiânia
